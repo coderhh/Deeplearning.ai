@@ -1,3 +1,2 @@
 # Deeplearning.ai
-this is a ai
-I use this project to learn
+This is project contains assignment code for Neural Networks and Deep Learning
