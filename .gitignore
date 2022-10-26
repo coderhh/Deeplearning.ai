@@ -1,1 +1,4 @@
 data/
+fashionmnist_data/
+mnist_fc.pt
+model.pth
